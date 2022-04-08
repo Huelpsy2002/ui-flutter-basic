@@ -72,7 +72,7 @@ class Home extends StatelessWidget {
               height: 20.0,
             ),
             Text(
-              'CURENT LEVEL',
+              'CURRENT LEVEL',
               style: TextStyle(
                 color: Colors.grey[600],
                 letterSpacing: 2.0,
