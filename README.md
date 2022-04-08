@@ -1,0 +1,5 @@
+# ui-flutter-basic
+ simple user interface using flutter 
+ THE HOME PAGE AND DRAWER CREATED USING
+ STATLESS WIDGET WITH GREY COLOR FOR BACKGROUND 
+ AND AMBER FOR TEXTS.
